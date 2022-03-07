@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lshindler
-- 👀 I’m interested in python and raspberry!
+- 👀 I’m interested in python, raspberry and arduino!
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on air quality projects 
 - 📫 How to reach me shindler.luca@gmail.com
